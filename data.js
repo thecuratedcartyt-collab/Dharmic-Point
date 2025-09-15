@@ -95,3 +95,4 @@ Bal Budhi Vidya Dehu Mohi, Harahu Kalesh Vikaar`,
         search_terms: ['hanuman', 'chalisa', 'hanuman chalisa', 'bajrangbali', 'ramayan', 'sunderkand']
     }
 ];
+
